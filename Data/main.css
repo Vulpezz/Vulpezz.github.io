@@ -17,6 +17,7 @@ body {
 
 header {
 	position: fixed;
+	border: 1px solid white
 	height: 5vw;
 	font-family: helvetica;
 	font-size: 1.3em;
