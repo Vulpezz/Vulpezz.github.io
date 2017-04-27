@@ -6,6 +6,7 @@
 html {
 	background: url('http://ic.pics.livejournal.com/agent_provokat/78238912/81374/81374_original.gif') no-repeat white ;
 	background-size: 100%;
+	background-color: #000117;
 }
 	/*
 	C:/Users/RedFoxInternational/Desktop/гифка/rain.gif
@@ -20,7 +21,8 @@ body {
 
 header {
 	position: fixed;
-	height: 70px;
+	border: 1px solid white;
+	height: 5vw;
 	font-family: helvetica;
 	font-size: 1.3em;
 	width: 100%;
@@ -29,16 +31,20 @@ header {
 
 
 
-.headerL {
-	margin-top: 20px;
+.header {
+	margin-top: 1%;
 	float: left;
-	margin-left: 10%;
+	margin-left: 2vw;
+	margin-right: 10%;
+	font-size: 2vw
 }
 
 .Logo {
 	font-weight: bold;
-	font-size: 1.8em;
+	font-size: 3vw
 }
+
+
 
 
 
