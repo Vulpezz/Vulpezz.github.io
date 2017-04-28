@@ -90,11 +90,11 @@ a.Logo:hover {
 
 .Slogo1 {
 float:left;
-
+width:70%;
 
 margin-top: 6vw;
-max-margin-left:30%;
-max-margin-right:30%;
+max-margin-left:15%;
+max-margin-right:15%;
 
 font-family: Harlow Solid Italic;
 	font-size: 10em;
