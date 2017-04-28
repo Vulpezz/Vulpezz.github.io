@@ -12,7 +12,9 @@ html {
 body {
 	font-size: 1.1em;
 	font-family: "segoe ui", sans-serif;
-	height: 100%;
+	width: 100%;
+overflow-y: scroll;
+position: fixed;
 }
 
 header {
