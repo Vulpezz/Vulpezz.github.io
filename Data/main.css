@@ -101,6 +101,7 @@ font-family: Harlow Solid Italic;
 }
 
 .Slogo {
+	float: left;
 	position: absolute;
 }
 
