@@ -91,6 +91,7 @@ a.Logo:hover {
 .Slogo1 {
 float: left;
 width: 70%;
+margin-top: 6vw;
 margin-left: 15%;
 font-family: Harlow Solid Italic;
 	font-size: 3em;
@@ -100,7 +101,7 @@ font-family: Harlow Solid Italic;
 }
 
 .Slogo {
-	position: ;
+	position: absolute;
 }
 
 	/*
