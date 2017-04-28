@@ -89,6 +89,7 @@ a.Logo:hover {
 }
 
 .Slogo1 {
+position: static;
 float: left;
 width: 70%;
 margin-top: 6vw;
