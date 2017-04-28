@@ -4,7 +4,7 @@
 }
 
 html {
-	background: url('http://ic.pics.livejournal.com/agent_provokat/78238912/81374/81374_original.gif') no-repeat  ;
+	background: url('Img/Backgrounds/rain1.gif')  ;
 	background-size: 100%;
 	background-color: #000117;
 }
@@ -17,7 +17,7 @@ body {
 
 header {
 	position: fixed;
-	border: 1px solid white;
+	border-bottom: 1px solid white;
 	height: 5vw;
 	font-family: helvetica;
 	font-size: 1.3em;
@@ -31,8 +31,9 @@ header {
 	margin-top: 1%;
 	float: left;
 	margin-left: 2vw;
-	margin-right: 10%;
-	font-size: 2vw
+	margin-right:;
+	font-size: 1.1em;
+	font-weight: bold;
 }
 
 .Logo {
@@ -85,7 +86,18 @@ a.Logo:hover {
 	-ms-transition: all.6s ease;
 }
 
+.Slogo {
+	margin-top: 100px;
+	font-family: Segoe script;
+	font-size: 3em;
+	float: left;
+	color: white;
+}
+
 	/*
 	C:/Users/RedFoxInternational/Desktop/гифка/rain.gif
 	http://ic.pics.livejournal.com/agent_provokat/78238912/81374/81374_original.gif
 	*/
+	
+	/* красивые шрифты :
+	Harlow Solid Italic		helvetica	segoe ui	sans-serifSegoe	script*/
