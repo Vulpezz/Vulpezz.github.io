@@ -88,8 +88,18 @@ a.Logo:hover {
 	-ms-transition: all.6s ease;
 }
 
+.Slogo1 {
+float: left;
+width: 70%;
+margin-left: 15%;
+font family: Harlow Solid Italic;
+font-size: 2em;
+text-align: center;
+
+}
+
 .Slogo {
-	margin-top: 100px;
+	position: ;
 	font-family: Harlow Solid Italic;
 	font-size: 3em;
 	float: left;
