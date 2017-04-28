@@ -92,18 +92,15 @@ a.Logo:hover {
 float: left;
 width: 70%;
 margin-left: 15%;
-font family: Harlow Solid Italic;
-font-size: 2em;
-text-align: center;
+font-family: Harlow Solid Italic;
+	font-size: 3em;
+	float: left;
+	color: white;
 
 }
 
 .Slogo {
 	position: ;
-	font-family: Harlow Solid Italic;
-	font-size: 3em;
-	float: left;
-	color: white;
 }
 
 	/*
