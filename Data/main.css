@@ -89,23 +89,33 @@ a.Logo:hover {
 }
 
 .Slogo1 {
-float:left;
-width:70%;
-
-margin-top: 6vw;
-max-margin-left:15%;
-max-margin-right:15%;
-
-font-family: Harlow Solid Italic;
-	font-size: 10em;
-	color: white;
-
+	float:left;
+	width:70%;
+	margin-left:10%;
+	font-family: Harlow Solid Italic;
+	font-size: 20vw;
+	color: rgba(255,50,50,0.8);
+	overflow: hidden;
 }
 
-.Slogo {
+.Slogo2 {
+	position: relative;
+	bottom: 5vw;
 	float: left;
-	position: absolute;
+	width: 20 vw;
+	margin-left: 45%;
+	font-family: comic sans MS;
+	font-size: 4vw;
+	color: rgba(255,255,255,0.8);
 }
+
+#Propusk {
+	float: left;
+	width: 100%;
+	height: 10vw;
+	display: block;
+}
+
 
 	/*
 	C:/Users/RedFoxInternational/Desktop/гифка/rain.gif
@@ -113,4 +123,4 @@ font-family: Harlow Solid Italic;
 	*/
 	
 	/* красивые шрифты :
-	Harlow Solid Italic		helvetica	segoe ui	sans-serifSegoe	script Segoe script*/
+	Harlow Solid Italic		Mistral		helvetica	segoe ui	sans-serifSegoe	script Segoe script*/
