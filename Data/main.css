@@ -89,14 +89,13 @@ a.Logo:hover {
 }
 
 .Slogo1 {
-position: static;
-float: left;
-width: 70%;
+
+
+
 margin-top: 6vw;
-margin-left: 15%;
+
 font-family: Harlow Solid Italic;
 	font-size: 3em;
-	float: left;
 	color: white;
 
 }
